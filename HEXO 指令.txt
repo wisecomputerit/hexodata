@@ -1,0 +1,232 @@
+
+npm install hexo-admin --save   後台
+
+
+npm install hexo-generator-sitemap --save   sitemap 
+
+
+npm install hexo-generator-baidu-sitemap --save
+
+
+npm install hexo-autonofollow --save  部屬SEO
+
+
+
+
+
+
+//-------------------------------------------// 可以修改區域
+
+wordpress\blog\themes\meilidu\layout\layout.js   //html 上端
+
+	<div id="google_translate_element"></div> // 	</header>    之間處理 <main>
+//--------------------------------------//
+
+
+Google Translate  要重新偏入  
+
+
+  <script> Please choose the product you want.    </script>   //     若有 新商品 超連結 要編入
+
+
+
+
+//-----------------------// 檔案 下在放置處
+
+source\files       // 位置
+
+[下載檔案]( /files/AB.jar)    // 位置
+
+
+//-----------------------//建立後台  寫文章 
+
+hexo clean && hexo generate 一併
+
+hexo  clean  刪除
+
+hexo generate  建立
+
+hexo clean
+hexo generate
+hexo server
+
+
+//-----------------------//本地
+hexo  server
+
+ http://localhost:4000/
+
+hexo help  
+//-------------------------// 新文章
+hexo  new  [ 檔名  ]
+
+
+命令：
+   clean 刪除產生的檔案和快取。
+   config 取得或設定配置。
+   deploy    部署 部署您的網站。
+   generate  生成 生成靜態文件。
+   help 取得指令的協助。
+   init 建立一個新的 Hexo 資料夾。
+   list 列出網站訊息
+   migrate 將您的網站從其他系統遷移到 Hexo。
+    new  新 建立一個新帖子。
+     publish  發布 將草稿貼文從 _drafts 移至 _posts 資料夾。
+    render   渲染 使用渲染器插件渲染檔案。
+     server 伺服器 啟動伺服器。
+   version 顯示版本資訊。
+
+全域選項：
+   --config 指定設定檔而不是使用 _config.yml
+   --cwd 指定 CWD
+   --debug 在終端機中顯示所有詳細訊息
+   --draft 顯示草稿帖子
+   --safe 停用所有外掛程式和腳本
+   --silent 在控制台上隱藏輸出
+
+如需更多協助，您可以使用“hexo help [command]”來獲取詳細信息
+或者您可以查看文件：https://hexo.io/docs/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+third upload  // 有增加檔案 追加
+
+first upload
+
+-//  
+
+ 第一次 先過活
+rod123997@gmail.com 信箱
+zxc7811821
+
+帳號 SuWeizhe1124
+密碼 Zx7811821
+
+SuWeizhe1124.github.io 明智課程
+
+
+
+wise.black.eggs@gmail.com 信箱
+Zx7811821 
+
+Github 
+帳號 wise.black.eggs
+密碼 Zx7811821
+
+wise.black.eggs.github.io 明智雞蛋
+
+
+/-//  --------------------------/
+
+
+Github 
+/  --------------------------/
+mysterious.city.official@gmail.com
+Zx7811821
+
+mysterious.city.official@gmail.com
+Zx7811821
+
+
+suweizhe.trade@gmail.com
+Zx7811821
+
+
+/  --------------------------/
+明智電腦有限公司
+wise.computer.it@gmail.com
+Zx7811821
+
+wisecomputerit
+Zx7811821
+
+
+//------------------------------//
+
+ 明智會計事物所
+huijishiwusuomingzhi@gmail.com
+
+wiseaccountingfirm
+
+Zx7811821
+
+
+
+//-------------------------------------//
+ 明智律師事物所
+lushishiwusuomingzhi@gmail.com
+Zx7811821
+
+WiseLawFirm
+Zx7811821
+
+
+//-------------------------------------//
+明智保全股份有限公司（改銀行）
+
+baoquangongsimingzhi@gmail.com
+Zx7811821
+
+WiseSecurityShares
+Zx7811821
+
+//-------------------------------------//
+明智建設有限公司
+
+zx781182111@gmail.com
+Zxc7811821
+
+WiseConstructionCoLtd
+Zx7811821
+
+FB (3c 產品專賣店)
+zx781182111@gmail.com
+Zx7811821
+
+//-------------------------------------//
+明智樂美卡牌有限公司
+lemeikapaiyouxiangongsimingzhi@gmail.com
+Zx7811821
+
+WiseLemeiCardsCoLtd
+Zx7811821
+
+//-------------------------------------//
+外匯 
+rod123997@gmail
+@Zx7811821
+
+//-----------------------------------//
+zx78118211
+zx26884529
+
+
+
+//-------------ecpay綠界科技----------------------//
+suweizhe7811821
+@Zxc7811821
+4119 身分證末四碼
+//-----------paypal------------------------//
+zx781182111@gmail.com
+zx7811821
+
+
